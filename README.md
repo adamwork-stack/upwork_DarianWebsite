@@ -1,6 +1,6 @@
 # Darian Terra Homes™ Website
 
-A professional, responsive website for Darian International showcasing Darian Terra Homes™ - The First Architectural Standard for Earth.
+A professional, responsive website for Darian International showcasing Darian Terra Homes™ 
 
 ## Features
 
